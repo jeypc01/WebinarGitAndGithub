@@ -21,7 +21,7 @@ public class GithubClass {
         
         Scanner scanner = new Scanner( System.in );
 
-        System.out.print( "What is your name: " );
+        System.out.print( "Could you type you name?: " );
 
         String name = scanner.nextLine();
         System.out.println("My name is: " + name);
