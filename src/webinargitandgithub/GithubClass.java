@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class GithubClass {
     
     public void Print(){
-        System.out.println("This is a great Webinar");             
+        System.out.println("This is a great Webinar, I am changing this class from Github");             
     }
     
     public void PrintMyName(){
